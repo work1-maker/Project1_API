@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Getting Country Currency using Country name</description>
+   <name>SOAP_GetCountryCurrency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8045ade-4aab-4406-9c89-2b4453053138</testCaseGuid>
+</TestCaseEntity>
